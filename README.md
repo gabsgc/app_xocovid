@@ -7,6 +7,8 @@ Este aplicativo é um projeto do curso de Engenharia de Software em parceria com
 
 [Cartinhas Xô Covid](https://github.com/gabsgc/app_xocovid/blob/master/Cartinhas%20X%C3%B4Covid.pdf)
 
+[Vídeo Explicativo](https://youtu.be/w2PqysNxl1o)
+
 **Desenvolvido por:**
 Gabriela Garcia – Discente de Engenharia de Software
 
